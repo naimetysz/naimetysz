@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Naime</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+naime+T;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
+<p align="center">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimetysz" alt="naimetysz" /></a> </p>
 
